@@ -1,0 +1,11 @@
+{
+  "app": {
+    "hostname": "localhost",
+    "port": 5000
+  },
+  "db": {
+    "username": "username",
+    "password": "password",
+    "name": "name"
+  }
+}
